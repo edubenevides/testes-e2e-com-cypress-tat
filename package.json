@@ -1,7 +1,7 @@
 {
   "name": "cypress-end-to-end",
   "version": "1.0.0",
-  "description": "TBD.",
+  "description": "Sample project to demonstrate e2e tests written with Cypress running on GitHub Actions.",
   "main": "index.js",
   "scripts": {
     "lint": "eslint cypress/**/*.js",
